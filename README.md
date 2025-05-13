@@ -9,6 +9,15 @@ This repository is a documentation of my Python learning journey from scratch.
 - ✅ Progress logs and reflections
 
 ## 🗂 Folder Structure
+✅ Day-1: Greetings Program
+
+✅ Day-2: if-else exercises
+
+✅ Day-3: loops practice
+
+✅ Day-4: 1.Collatz puzzle & Time Greeting Program
+
+✅ Day-5: Basic Calculator
 
 ## 💡 Why I'm Doing This
 
